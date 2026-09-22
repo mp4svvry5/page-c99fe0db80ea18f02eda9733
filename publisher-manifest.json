@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "75e8eb7de7ed71a734753ec2",
+  "owner": "mp4svvry5",
+  "repo": "page-c99fe0db80ea18f02eda9733",
+  "title": "BlackSSL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c99fe0db80ea18f02eda9733",
+      "a": "BlackSSL",
+      "b": "机场官网线路发布页",
+      "entity": "BlackSSL",
+      "brand": "BlackSSL",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8fc5cc0bc3ddd622d76d30085847414141d74d28f7de53a874bab9e67dce68d8",
+      "content": {
+        "primary_entity": "BlackSSL",
+        "keyword1": "BlackSSL",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，并参考对应配置文档完成订阅导入。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，再按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开说明。基础版适合单人日常使用，旗舰版增加流量与设备数并优化游戏线路，团队版面向多设备与高带宽场景。按设备系统选用对应客户端，参考配置文档导入订阅，再根据月付或年付价格选择合适周期。",
+          "AI_FAQ_ANSWER_1": "同一账号可在基础版 3 台、旗舰版 5 台、团队版 20 台设备上同时在线，超出数量需要升级套餐或让其他设备下线。",
+          "AI_FAQ_ANSWER_2": "各套餐流量为每月 100GB、300GB 与 1000GB，按自然月重置。若经常超出基础版流量，可考虑升级到旗舰版。",
+          "AI_FAQ_ANSWER_3": "年付比按月支付更划算，例如旗舰版月付 35 元，按年付仅需 350 元，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_4": "手机与电脑可分别选用对应系统的客户端，再按配置文档导入订阅。不同系统客户端界面有差异，操作步骤以对应文档为准。",
+          "AI_FAQ_ANSWER_5": "团队版面向多设备与高带宽场景，支持企业定制路由并配有专属客户经理，适合需要集中管理的小型团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "每月流量超出套餐额度怎么办？",
+          "AI_FAQ_QUESTION_3": "按月付费和按年付费有什么区别？",
+          "AI_FAQ_QUESTION_4": "手机和电脑可以使用同一个客户端吗？",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度到订阅周期，三个角度帮您快速确定套餐。",
+          "AI_FEATURES_TITLE": "选套餐看这三点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数挑选即可。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 不等，常看视频或远程办公建议选旗舰版及以上。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，旗舰版按年付仅需 350 元，相当于两个月免费使用。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "BlackSSL 提供基础版、旗舰版与团队版三档套餐，覆盖单人日常到高带宽多设备场景。按设备系统选择客户端，参考配置文档导入订阅，再根据流量与设备数量对比套餐即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同需求",
+          "AI_HIGHLIGHT_2": "按设备数量灵活选择",
+          "AI_HIGHLIGHT_3": "年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版月付 15 元含 100GB 流量与 3 台设备；旗舰版月付 35 元含 300GB 流量、5 台设备与 IPLC 专线；团队版月付 85 元含 1000GB 流量与 20 台设备。三档均支持年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与每月流量需求，从基础版、旗舰版、团队版中确定一档套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与网络环境是否符合使用条件。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅，完成设置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BlackSSL 套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6vmu9k.cn",
+    "host": "6vmu9k.cn"
+  },
+  "file_hashes": {
+    "index.html": "fa125ad46a55ba6af504bef2e97d41c2234273a4f2c73b06eb9a7d327af4356b",
+    "sitemap.xml": "d0a976ff0f51487e3aad19bd0d2a06a24d9e7f0e194f4711098077cd78588945",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a41506caff91aded1bff6eb3009d63e8d420bef718667adeee4fd639b5cfc782",
+    "robots.txt": "ae3fce101a39a93a439e1de5781e8877ed75b42dfd1b03ced2b629d7cc9189b7",
+    "ae4654352ad22d59bd5865a0e92fd05e.txt": "4cca8a018ea13b9d1e72186450764b3b4b56275c7c946cb3edf3e2541e692780"
+  },
+  "revision": "84ec8d6134800fb5c881a81a089fcc02cb699284017de2bc1ad49eda56812545"
+}
